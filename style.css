@@ -55,7 +55,7 @@ body {
     font-size: 2.5rem;
     letter-spacing: 8px;
     padding-bottom: 0.5em;
-    
+    letter-spacing: 10px;
 }
 
 span {
@@ -240,6 +240,7 @@ footer a {
 
     .title {
         font-size: 4rem;
+        letter-spacing: 20px;
     }
 
     .desc {
