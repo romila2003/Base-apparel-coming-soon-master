@@ -25,25 +25,25 @@ This is a solution to the [Base apparel coming soon page challenge on Frontend M
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Base-apparel-coming-soon-master/blob/main/Mobile%20preview.PNG)
 
 # Mobile Preview - active
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Base-apparel-coming-soon-master/blob/main/Mobile%20preview%20-%20active.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Base-apparel-coming-soon-master/blob/main/Desktop%20preview.PNG)
 
 # Desktop Preview - active
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Base-apparel-coming-soon-master/blob/main/Desktop%20preview%20-%20active.PNG)
 
 
 ### Links
 
- - Source code: []()
- - Live website: []()
+ - Source code: [https://github.com/romila2003/Base-apparel-coming-soon-master](https://github.com/romila2003/Base-apparel-coming-soon-master)
+ - Live website: [https://base-apparel-coming-soon-page-main.netlify.app/](https://base-apparel-coming-soon-page-main.netlify.app/)
 
 ## My process
 
