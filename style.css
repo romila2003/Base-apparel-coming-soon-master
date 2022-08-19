@@ -117,6 +117,7 @@ button {
     cursor: pointer;
     background: var(--gradient-2);
     background-color: white;
+    overflow: hidden;
 }
 
 .arrow {
